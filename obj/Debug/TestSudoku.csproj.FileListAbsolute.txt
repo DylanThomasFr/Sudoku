@@ -1,0 +1,12 @@
+C:\Users\Mark\OneDrive\Visual Studio 2013\Projects\TestSudoku\TestSudoku\bin\Debug\TestSudoku.exe.config
+C:\Users\Mark\OneDrive\Visual Studio 2013\Projects\TestSudoku\TestSudoku\bin\Debug\TestSudoku.exe
+C:\Users\Mark\OneDrive\Visual Studio 2013\Projects\TestSudoku\TestSudoku\bin\Debug\TestSudoku.pdb
+C:\Users\Mark\OneDrive\Visual Studio 2013\Projects\TestSudoku\TestSudoku\obj\Debug\TestSudoku.exe
+C:\Users\Mark\OneDrive\Visual Studio 2013\Projects\TestSudoku\TestSudoku\obj\Debug\TestSudoku.pdb
+C:\Users\Mark\OneDrive\Visual Studio 2013\Projects\TestSudoku\TestSudoku\obj\Debug\TestSudoku.csprojResolveAssemblyReference.cache
+D:\Visual_project\bin\Debug\TestSudoku.exe.config
+D:\Visual_project\obj\Debug\TestSudoku.exe
+D:\Visual_project\obj\Debug\TestSudoku.pdb
+D:\Visual_project\bin\Debug\TestSudoku.exe
+D:\Visual_project\bin\Debug\TestSudoku.pdb
+D:\Visual_project\obj\Debug\TestSudoku.csprojResolveAssemblyReference.cache
